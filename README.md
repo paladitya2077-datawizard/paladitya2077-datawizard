@@ -1,6 +1,6 @@
 # 👨‍💻 Hello, I'm Aditya Pal | Data Analyst
 
-I am a First-Year BCA student who loves working with data. I have learned how to take raw, messy information and turn it into clear, easy-to-read charts and dashboards that help businesses make smart choices.
+I am a First-Year BCA student who views data analysis as a strategic puzzle requiring critical thinking and a sharp eye for visual design. I have learned how to take raw, messy information and turn it into clear, easy-to-read charts and dashboards that help businesses make smart choices.
 
 ---
 
@@ -36,6 +36,6 @@ I am a First-Year BCA student who loves working with data. I have learned how to
 ---
 
 ## 📬 Let's Connect
-* **LinkedIn:** [Insert Your LinkedIn URL]
-* **Email:** [Insert Your Email]
-* **Tableau Profile:** [Insert Your Tableau Public Profile URL]
+* **LinkedIn:** www.linkedin.com/in/aditya-pal-data
+* **Email:** paladitya2077@gmail.com
+* **Tableau Profile:** https://public.tableau.com/app/profile/aditya.pal8150
