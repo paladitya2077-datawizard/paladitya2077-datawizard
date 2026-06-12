@@ -6,7 +6,7 @@ I am a First-Year BCA student who views data analysis as a strategic puzzle requ
 
 ## 🛠️ My Skills
 * **Database & Coding:** SQL (MySQL Workbench), Python (NumPy, Pandas)
-* **Charts & Dashboards:** Tableau Public, Power BI, Matplotlib, Seaborn
+* **Charts & Dashboards:** Tableau Public, Matplotlib, Seaborn
 * **Excel:** Advanced Excel (Formulas, Pivot Tables, and Interactive Dashboards)
 
 ---
@@ -36,6 +36,6 @@ I am a First-Year BCA student who views data analysis as a strategic puzzle requ
 ---
 
 ## 📬 Let's Connect
-* **LinkedIn:** www.linkedin.com/in/aditya-pal-data
-* **Email:** paladitya2077@gmail.com
-* **Tableau Profile:** https://public.tableau.com/app/profile/aditya.pal8150
+* **LinkedIn:** [linkedin.com/in/aditya-pal-data](https://www.linkedin.com/in/aditya-pal-data)
+* **Email:** [paladitya2077@gmail.com](mailto:paladitya2077@gmail.com)
+* **Tableau Profile:** [public.tableau.com/app/profile/aditya.pal8150](https://public.tableau.com/app/profile/aditya.pal8150)
