@@ -1,49 +1,41 @@
-# Hi, I'm Aditya Pal 👋 | Data Analyst
+# 👨‍💻 Hello, I'm Aditya Pal | Data Analyst
 
-I am a First-Year BCA student with an end-to-end foundation in data analytics, specialized in transforming raw datasets into interactive, business-driven visual solutions. 
-
-## 🛠️ Technical Toolkit
-- **Data Manipulation:** Python (NumPy, Pandas), MySQL
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Core Skills:** Advanced Excel, Exploratory Data Analysis (EDA), ETL Data Pipelines
+I am a First-Year BCA student who loves working with data. I have learned how to take raw, messy information and turn it into clear, easy-to-read charts and dashboards that help businesses make smart choices.
 
 ---
 
-## 📂 Featured Analytics Portfolio (6 Projects)
-
-### 1. Data Analyst Capstone Project (Python + Tableau)
-*An end-to-end analytical pipeline analyzing business performance.*
-- **Core Action:** Cleaned and manipulated data via Python Pandas, conducted EDA, and built an interactive executive dashboard.
-- **Links:** 
-
-### 2. Advanced Excel Business Model
-*A financial/operational tracking model utilizing automated logic structures.*
-- **Core Action:** Built dynamic trackers using VLOOKUP/XLOOKUP, Pivot Tables, and advanced nested conditional formatting.
-- **Links:**
-
-### 3. Relational Database SQL Analytics
-*Writing complex relational database queries to extract cross-functional metrics.*
-- **Core Action:** Developed standalone SQL scripts utilizing multi-table JOINs, CTEs (Common Table Expressions), and Window functions.
-- **Links:** 
-
-### 4. Exploratory Data Analysis Pipeline (Python)
-*A statistical EDA deep-dive over unstructured data using Seaborn and Matplotlib.*
-- **Core Action:** Managed missing data imputation, outlier treatment, and generated feature correlation matrices.
-- **Links:**
-
-  
-### 5. Power BI Operational Dashboard
-*An automated enterprise intelligence layout highlighting key performance indicators.*
-- **Core Action:** Transformed messy source files via Power Query, established a clean star-schema data model, and wrote DAX functions.
-- **Links:**
-
-### 6. Tableau Cross-Platform Visualization
-*An advanced dashboard utilizing multi-source structured outputs cleaned via Python scripts.*
-- **Core Action:** Programmatically extracted data frames through Python, exported structured outputs, and engineered advanced Tableau calculated fields.
-- **Links:**
+## 🛠️ My Skills
+* **Database & Coding:** SQL (MySQL Workbench), Python (NumPy, Pandas)
+* **Charts & Dashboards:** Tableau Public, Power BI, Matplotlib, Seaborn
+* **Excel:** Advanced Excel (Formulas, Pivot Tables, and Interactive Dashboards)
 
 ---
 
-## 📬 Connect With Me
-- **LinkedIn:** [your-linkedin-profile-url]
-- **Email:** [your-professional-email]
+## 📂 My Projects
+
+### 1. 🎯 Restaurant Marketing Project (Python + Tableau)
+*I cleaned and analyzed a dataset of 9,000+ restaurants to find out what makes a restaurant successful.*
+* **What I did:** Used Python to fix missing data and change all different world currencies into USD. Then, I built a Tableau dashboard to show top-performing restaurants using a matrix.
+* **🔗 Links:** [View Code Repo](https://github.com/paladitya2077-datawizard/data-analyst-capstone-project) | [See Live Tableau Dashboard](https://public.tableau.com/views/AdityaPalMarektingCapstoneProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### 2. 🗄️ Employee Performance Analysis (SQL)
+*I organized a company database to check salaries and track employee performance ratings.*
+* **What I did:** Connected multiple tables together using keys, fixed broken data rows, and wrote queries to rank employees by their total experience.
+* **🔗 Links:** [View Code Repo](https://github.com/paladitya2077-datawizard/sql-employee-performance-mapping-project)
+
+### 3. 📊 E-Commerce Sales Dashboard (Excel)
+*I built a single-page interactive sales and profit tracker over 50,000+ retail order rows.*
+* **What I did:** Used `SUMIFS` formulas to calculate regional sales totals and added a drop-down selection box so users can easily filter by product category.
+* **🔗 Links:** [View Code Repo](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard)
+
+### 4. 🐍 Health Insurance Analysis (Python)
+*I looked at 1,300+ insurance records to see which lifestyle factors increase medical costs the most.*
+* **What I did:** Cleaned data using Pandas and created clear scatter and line plots to prove that smoking habits cause the biggest spike in premium charges.
+* **🔗 Links:** [View Code Repo](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project)
+
+---
+
+## 📬 Let's Connect
+* **LinkedIn:** [Insert Your LinkedIn URL]
+* **Email:** [Insert Your Email]
+* **Tableau Profile:** [Insert Your Tableau Public Profile URL]
