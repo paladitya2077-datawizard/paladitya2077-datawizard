@@ -6,7 +6,7 @@ I am a First-Year BCA student who views data analysis as a strategic puzzle requ
 
 ## 🛠️ My Skills
 * **Database & Coding:** SQL (MySQL Workbench), Python (NumPy, Pandas)
-* **Charts & Dashboards:** Tableau Public, Matplotlib, Seaborn
+* **Charts & Dashboards:** Power BI Desktop, Tableau Public, Matplotlib, Seaborn
 * **Excel:** Advanced Excel (Formulas, Pivot Tables, and Interactive Dashboards)
 
 ---
@@ -28,7 +28,12 @@ I am a First-Year BCA student who views data analysis as a strategic puzzle requ
 * **What I did:** Used `SUMIFS` formulas to calculate regional sales totals and added a drop-down selection box so users can easily filter by product category.
 * **🔗 Links:** [View Code Repo](https://github.com/paladitya2077-datawizard/excel-E-commerce-sales-analysis-dashboard)
 
-### 4. 🐍 Health Insurance Analysis (Python)
+### 4. 📊 Global Restaurant Analysis (Power BI)
+*I combined multiple global restaurant dataset files to analyze customer scores and regional food trends.*
+* **What I did:** Cleaned multi-continent data sheets using Power Query, designed an organized Star Schema data model, and wrote a custom DAX color indicator code block to dynamically highlight restaurant performance.
+* **🔗 Links:** [View Code Repo](https://github.com/paladitya2077-datawizard/powerbi-zomato-global-restaurant-analysis)
+
+### 5. 🐍 Health Insurance Analysis (Python)
 *I looked at 1,300+ insurance records to see which lifestyle factors increase medical costs the most.*
 * **What I did:** Cleaned data using Pandas and created clear scatter and line plots to prove that smoking habits cause the biggest spike in premium charges.
 * **🔗 Links:** [View Code Repo](https://github.com/paladitya2077-datawizard/python-insurance-data-analysis-project)
